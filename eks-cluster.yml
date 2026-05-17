@@ -6,6 +6,6 @@ metadata:
   region: us-east-1
 
 managedNodeGroups:
-  -name: ng-1
-  desiredCapacity: 1
-  spot: true
+  - name: ng-1
+    desiredCapacity: 1
+    spot: true
