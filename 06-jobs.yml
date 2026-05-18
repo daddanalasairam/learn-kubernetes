@@ -10,4 +10,3 @@ spec:
           image: redhat/ubi9
           command: ["sleep", "10"]
       restartPolicy: Never
-
